@@ -1,0 +1,20 @@
+-create a ui with html and javascript
+
+-create categories maybe as panes to click on that will bring you to different functionalities
+
+-have a searches tab, have each search "session" saved and displayed with the search terms and other data
+
+-within a search session, be able to save links to a user made category (folders)
+
+-save button will bring up an overlay box with a dropdown menu for selecting a premade category (or making a new one) and also notes to write for each link
+
+-when you go to the folders of saved links there will be functionality to edit delete etc, but also to copy all or copy one. copy will format all the links copied as follows:
+
+https://www.examplewebsite.com/information.html(hyperlink?)
+	notes about this website, more notes, more notes, various notes 
+	a lot of good notes and information etc.
+
+https://www.anotherexamplewebsite.com/morestuff.php(hyperlink?)
+	a lot of good notes and information, good stuff, a lot of
+	information about this product. This is a very good product
+	you should buy this product
